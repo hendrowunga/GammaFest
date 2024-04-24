@@ -1,0 +1,12 @@
+names:
+- Suara
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: runspose
+  url: https://universe.roboflow.com/hendro-wunga/runspose/dataset/2
+  version: 2
+  workspace: hendro-wunga
+test: test/images
+train: train/images
+val: valid/images
